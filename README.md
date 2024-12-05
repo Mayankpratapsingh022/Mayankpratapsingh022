@@ -14,8 +14,7 @@
 <a href="https://twitter.com/mayank_022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayank_022" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mayankpratapsingh022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayankpratapsingh022" height="30" width="40" /></a>
 <a href="https://instagram.com/mayankpratapsingh_022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayankpratapsingh_022" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mayankpratapsingh022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mayankpratapsingh022" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mayankpratapsingh022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayankpratapsingh022" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
