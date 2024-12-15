@@ -66,6 +66,10 @@ I am a passionate Machine Learning Engineer and Data Scientist dedicated to deve
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=python&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 <!-- LangChain & Related -->
 ![LangChain](https://img.shields.io/badge/LangChain-FFD43B?style=for-the-badge&logo=python&logoColor=white)
